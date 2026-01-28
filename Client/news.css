@@ -11,3 +11,9 @@ body {
 .activeLink{
     color: rgb(3, 96, 97);
 }
+#postContent {
+    position: sticky;
+    top: 20px; 
+    align-self: flex-start; 
+    max-height: 90vh; 
+}
