@@ -1,0 +1,13 @@
+body {
+    line-height: 1.6;
+}
+
+.news-item {
+    cursor: pointer;
+    color: blue;
+    text-decoration: underline;
+    margin-bottom: 8px;
+}
+.activeLink{
+    color: rgb(3, 96, 97);
+}
