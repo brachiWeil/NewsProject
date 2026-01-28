@@ -1,6 +1,3 @@
-body {
-    line-height: 1.6;
-}
 
 .news-item {
     cursor: pointer;
@@ -11,8 +8,31 @@ body {
 .activeLink{
     color: rgb(3, 96, 97);
 }
+
+body {
+    height: 100%;
+    line-height: 1.6;
+    overflow: hidden; 
+}
+
+.main-wrapper {
+    display: flex;
+    height: 100vh;
+    direction: rtl;
+}
+
+#newsTitels {
+    flex: 1;
+    overflow-y: auto;
+    direction: ltr; 
+}
+#newsTitels > * {
+    direction: rtl;
+    text-align: right;
+}
+
 #postContent {
-    position: sticky;
-    top: 20px;
-    align-self: flex-start;
+    flex: 2;
+    overflow-y: auto; 
+    padding: 20px;
 }
