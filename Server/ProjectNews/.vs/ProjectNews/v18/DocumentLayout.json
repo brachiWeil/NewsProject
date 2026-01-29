@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brachaw\\Downloads\\NewsProject\\Server\\ProjectNews\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05EA\u05D9\u05E7\u05D5\u05DF123.DESKTOP-9L8VBBS\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.2\\buildTransitive\\netcoreapp2.0\\Microsoft.Extensions.Primitives.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Brachaw\\Downloads\\NewsProject\\Server\\ProjectNews\\ProjectNews\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectNews\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:3:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Brachaw\\Downloads\\NewsProject\\Server\\ProjectNews\\ProjectNews\\Controllers\\News.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:3:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectNews\\Controllers\\News.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Brachaw\\Downloads\\NewsProject\\Server\\ProjectNews\\ClassLibrary1\\Model\\NewsItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClassLibrary1\\Model\\NewsItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Brachaw\\Downloads\\NewsProject\\Server\\ProjectNews\\ProjectNews\\Controllers\\News.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectNews\\Controllers\\News.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Brachaw\\Downloads\\NewsProject\\Server\\ProjectNews\\NewsService\\NewsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewsService\\NewsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD43DB7B-B6A3-4BB5-B3E3-295D0F06A61F}|ClassLibrary1\\Web.core.csproj|C:\\Users\\Brachaw\\Downloads\\NewsProject\\Server\\ProjectNews\\classlibrary1\\web.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DD43DB7B-B6A3-4BB5-B3E3-295D0F06A61F}|ClassLibrary1\\Web.core.csproj|solutionrelative:classlibrary1\\web.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Brachaw\\Downloads\\NewsProject\\Server\\ProjectNews\\ClassLibrary1\\Services\\INewsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClassLibrary1\\Services\\INewsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Brachaw\\Downloads\\NewsProject\\Server\\ProjectNews\\ProjectNews\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectNews\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Brachaw\\Downloads\\NewsProject\\Server\\ProjectNews\\ProjectNews\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProjectNews\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Brachaw\\Downloads\\NewsProject\\Server\\ProjectNews\\ProjectNews\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProjectNews\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-29T08:30:22.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Users\\Brachaw\\Downloads\\NewsProject\\Server\\ProjectNews\\ProjectNews\\Controllers\\News.cs",
+              "RelativeDocumentMoniker": "ProjectNews\\Controllers\\News.cs",
+              "ToolTip": "C:\\Users\\Brachaw\\Downloads\\NewsProject\\Server\\ProjectNews\\ProjectNews\\Controllers\\News.cs",
+              "RelativeToolTip": "ProjectNews\\Controllers\\News.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T08:30:22.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsItem.cs",
+              "DocumentMoniker": "C:\\Users\\Brachaw\\Downloads\\NewsProject\\Server\\ProjectNews\\ClassLibrary1\\Model\\NewsItem.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Model\\NewsItem.cs",
+              "ToolTip": "C:\\Users\\Brachaw\\Downloads\\NewsProject\\Server\\ProjectNews\\ClassLibrary1\\Model\\NewsItem.cs",
+              "RelativeToolTip": "ClassLibrary1\\Model\\NewsItem.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T08:30:22.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "INewsService.cs",
+              "DocumentMoniker": "C:\\Users\\Brachaw\\Downloads\\NewsProject\\Server\\ProjectNews\\ClassLibrary1\\Services\\INewsService.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Services\\INewsService.cs",
+              "ToolTip": "C:\\Users\\Brachaw\\Downloads\\NewsProject\\Server\\ProjectNews\\ClassLibrary1\\Services\\INewsService.cs",
+              "RelativeToolTip": "ClassLibrary1\\Services\\INewsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T08:30:22.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Users\\Brachaw\\Downloads\\NewsProject\\Server\\ProjectNews\\ProjectNews\\Controllers\\News.cs",
+              "RelativeDocumentMoniker": "ProjectNews\\Controllers\\News.cs",
+              "ToolTip": "C:\\Users\\Brachaw\\Downloads\\NewsProject\\Server\\ProjectNews\\ProjectNews\\Controllers\\News.cs",
+              "RelativeToolTip": "ProjectNews\\Controllers\\News.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T08:30:22.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Brachaw\\Downloads\\NewsProject\\Server\\ProjectNews\\ProjectNews\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectNews\\Program.cs",
+              "ToolTip": "C:\\Users\\Brachaw\\Downloads\\NewsProject\\Server\\ProjectNews\\ProjectNews\\Program.cs",
+              "RelativeToolTip": "ProjectNews\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T08:30:22.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.Extensions.Primitives.targets",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05D9\u05E7\u05D5\u05DF123.DESKTOP-9L8VBBS\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.2\\buildTransitive\\netcoreapp2.0\\Microsoft.Extensions.Primitives.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\\u05EA\u05D9\u05E7\u05D5\u05DF123.DESKTOP-9L8VBBS\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.2\\buildTransitive\\netcoreapp2.0\\Microsoft.Extensions.Primitives.targets",
+              "ToolTip": "C:\\Users\\\u05EA\u05D9\u05E7\u05D5\u05DF123.DESKTOP-9L8VBBS\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.2\\buildTransitive\\netcoreapp2.0\\Microsoft.Extensions.Primitives.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u05EA\u05D9\u05E7\u05D5\u05DF123.DESKTOP-9L8VBBS\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.2\\buildTransitive\\netcoreapp2.0\\Microsoft.Extensions.Primitives.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-01-29T08:30:22.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewsService.cs",
+              "DocumentMoniker": "C:\\Users\\Brachaw\\Downloads\\NewsProject\\Server\\ProjectNews\\NewsService\\NewsService.cs",
+              "RelativeDocumentMoniker": "NewsService\\NewsService.cs",
+              "ToolTip": "C:\\Users\\Brachaw\\Downloads\\NewsProject\\Server\\ProjectNews\\NewsService\\NewsService.cs",
+              "RelativeToolTip": "NewsService\\NewsService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T08:30:22.165Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.core.csproj",
+              "DocumentMoniker": "C:\\Users\\Brachaw\\Downloads\\NewsProject\\Server\\ProjectNews\\ClassLibrary1\\Web.core.csproj",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Web.core.csproj",
+              "ToolTip": "C:\\Users\\Brachaw\\Downloads\\NewsProject\\Server\\ProjectNews\\ClassLibrary1\\Web.core.csproj",
+              "RelativeToolTip": "ClassLibrary1\\Web.core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-29T08:30:22.23Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
