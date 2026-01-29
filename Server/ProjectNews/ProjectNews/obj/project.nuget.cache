@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "2n2J4o+jZ/BTpslw6lTZeEHszS7RLgwYWmiwTj6FxN+newrB4tSGpWuTnrVKVb5D62m+uvl6TES38hdd6vYiUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\תיקון123.DESKTOP-9L8VBBS\\Downloads\\NewsProject\\Server\\ProjectNews\\ProjectNews\\ProjectNews.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\תיקון123.DESKTOP-9L8VBBS\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.2\\microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
+    "C:\\Users\\תיקון123.DESKTOP-9L8VBBS\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\תיקון123.DESKTOP-9L8VBBS\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.2\\microsoft.extensions.caching.abstractions.10.0.2.nupkg.sha512",
+    "C:\\Users\\תיקון123.DESKTOP-9L8VBBS\\.nuget\\packages\\microsoft.extensions.caching.memory\\10.0.2\\microsoft.extensions.caching.memory.10.0.2.nupkg.sha512",
+    "C:\\Users\\תיקון123.DESKTOP-9L8VBBS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.2\\microsoft.extensions.dependencyinjection.abstractions.10.0.2.nupkg.sha512",
+    "C:\\Users\\תיקון123.DESKTOP-9L8VBBS\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.2\\microsoft.extensions.logging.abstractions.10.0.2.nupkg.sha512",
+    "C:\\Users\\תיקון123.DESKTOP-9L8VBBS\\.nuget\\packages\\microsoft.extensions.options\\10.0.2\\microsoft.extensions.options.10.0.2.nupkg.sha512",
+    "C:\\Users\\תיקון123.DESKTOP-9L8VBBS\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.2\\microsoft.extensions.primitives.10.0.2.nupkg.sha512",
+    "C:\\Users\\תיקון123.DESKTOP-9L8VBBS\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\תיקון123.DESKTOP-9L8VBBS\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\תיקון123.DESKTOP-9L8VBBS\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\תיקון123.DESKTOP-9L8VBBS\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\תיקון123.DESKTOP-9L8VBBS\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\תיקון123.DESKTOP-9L8VBBS\\.nuget\\packages\\system.buffers\\4.6.1\\system.buffers.4.6.1.nupkg.sha512",
+    "C:\\Users\\תיקון123.DESKTOP-9L8VBBS\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\תיקון123.DESKTOP-9L8VBBS\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.2\\system.diagnostics.diagnosticsource.10.0.2.nupkg.sha512",
+    "C:\\Users\\תיקון123.DESKTOP-9L8VBBS\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512",
+    "C:\\Users\\תיקון123.DESKTOP-9L8VBBS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.1.2\\system.runtime.compilerservices.unsafe.6.1.2.nupkg.sha512",
+    "C:\\Users\\תיקון123.DESKTOP-9L8VBBS\\.nuget\\packages\\system.threading.tasks.extensions\\4.6.3\\system.threading.tasks.extensions.4.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

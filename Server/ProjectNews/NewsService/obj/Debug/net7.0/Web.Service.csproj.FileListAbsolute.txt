@@ -1,0 +1,15 @@
+C:\Users\תיקון123.DESKTOP-9L8VBBS\Downloads\NewsProject\Server\ProjectNews\NewsService\bin\Debug\net7.0\Web.Service.deps.json
+C:\Users\תיקון123.DESKTOP-9L8VBBS\Downloads\NewsProject\Server\ProjectNews\NewsService\bin\Debug\net7.0\Web.Service.dll
+C:\Users\תיקון123.DESKTOP-9L8VBBS\Downloads\NewsProject\Server\ProjectNews\NewsService\bin\Debug\net7.0\Web.Service.pdb
+C:\Users\תיקון123.DESKTOP-9L8VBBS\Downloads\NewsProject\Server\ProjectNews\NewsService\bin\Debug\net7.0\Web.core.dll
+C:\Users\תיקון123.DESKTOP-9L8VBBS\Downloads\NewsProject\Server\ProjectNews\NewsService\bin\Debug\net7.0\Web.core.pdb
+C:\Users\תיקון123.DESKTOP-9L8VBBS\Downloads\NewsProject\Server\ProjectNews\NewsService\obj\Debug\net7.0\Web.Service.csproj.AssemblyReference.cache
+C:\Users\תיקון123.DESKTOP-9L8VBBS\Downloads\NewsProject\Server\ProjectNews\NewsService\obj\Debug\net7.0\Web.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\תיקון123.DESKTOP-9L8VBBS\Downloads\NewsProject\Server\ProjectNews\NewsService\obj\Debug\net7.0\Web.Service.AssemblyInfoInputs.cache
+C:\Users\תיקון123.DESKTOP-9L8VBBS\Downloads\NewsProject\Server\ProjectNews\NewsService\obj\Debug\net7.0\Web.Service.AssemblyInfo.cs
+C:\Users\תיקון123.DESKTOP-9L8VBBS\Downloads\NewsProject\Server\ProjectNews\NewsService\obj\Debug\net7.0\Web.Service.csproj.CoreCompileInputs.cache
+C:\Users\תיקון123.DESKTOP-9L8VBBS\Downloads\NewsProject\Server\ProjectNews\NewsService\obj\Debug\net7.0\Web.Service.csproj.CopyComplete
+C:\Users\תיקון123.DESKTOP-9L8VBBS\Downloads\NewsProject\Server\ProjectNews\NewsService\obj\Debug\net7.0\Web.Service.dll
+C:\Users\תיקון123.DESKTOP-9L8VBBS\Downloads\NewsProject\Server\ProjectNews\NewsService\obj\Debug\net7.0\refint\Web.Service.dll
+C:\Users\תיקון123.DESKTOP-9L8VBBS\Downloads\NewsProject\Server\ProjectNews\NewsService\obj\Debug\net7.0\Web.Service.pdb
+C:\Users\תיקון123.DESKTOP-9L8VBBS\Downloads\NewsProject\Server\ProjectNews\NewsService\obj\Debug\net7.0\ref\Web.Service.dll

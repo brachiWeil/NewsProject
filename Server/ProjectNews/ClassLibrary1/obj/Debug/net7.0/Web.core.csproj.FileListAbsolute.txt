@@ -1,0 +1,12 @@
+C:\Users\תיקון123.DESKTOP-9L8VBBS\Downloads\NewsProject\Server\ProjectNews\ClassLibrary1\bin\Debug\net7.0\Web.core.deps.json
+C:\Users\תיקון123.DESKTOP-9L8VBBS\Downloads\NewsProject\Server\ProjectNews\ClassLibrary1\bin\Debug\net7.0\Web.core.dll
+C:\Users\תיקון123.DESKTOP-9L8VBBS\Downloads\NewsProject\Server\ProjectNews\ClassLibrary1\bin\Debug\net7.0\Web.core.pdb
+C:\Users\תיקון123.DESKTOP-9L8VBBS\Downloads\NewsProject\Server\ProjectNews\ClassLibrary1\obj\Debug\net7.0\Web.core.csproj.AssemblyReference.cache
+C:\Users\תיקון123.DESKTOP-9L8VBBS\Downloads\NewsProject\Server\ProjectNews\ClassLibrary1\obj\Debug\net7.0\Web.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\תיקון123.DESKTOP-9L8VBBS\Downloads\NewsProject\Server\ProjectNews\ClassLibrary1\obj\Debug\net7.0\Web.core.AssemblyInfoInputs.cache
+C:\Users\תיקון123.DESKTOP-9L8VBBS\Downloads\NewsProject\Server\ProjectNews\ClassLibrary1\obj\Debug\net7.0\Web.core.AssemblyInfo.cs
+C:\Users\תיקון123.DESKTOP-9L8VBBS\Downloads\NewsProject\Server\ProjectNews\ClassLibrary1\obj\Debug\net7.0\Web.core.csproj.CoreCompileInputs.cache
+C:\Users\תיקון123.DESKTOP-9L8VBBS\Downloads\NewsProject\Server\ProjectNews\ClassLibrary1\obj\Debug\net7.0\Web.core.dll
+C:\Users\תיקון123.DESKTOP-9L8VBBS\Downloads\NewsProject\Server\ProjectNews\ClassLibrary1\obj\Debug\net7.0\refint\Web.core.dll
+C:\Users\תיקון123.DESKTOP-9L8VBBS\Downloads\NewsProject\Server\ProjectNews\ClassLibrary1\obj\Debug\net7.0\Web.core.pdb
+C:\Users\תיקון123.DESKTOP-9L8VBBS\Downloads\NewsProject\Server\ProjectNews\ClassLibrary1\obj\Debug\net7.0\ref\Web.core.dll
